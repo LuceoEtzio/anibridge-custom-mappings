@@ -1,0 +1,10 @@
+# the two OVAs were produced backwards, the first adapts the second half of the manga. Absolute Order puts them in story order.
+tvdb_show:83950:s1:
+  anilist:665:
+    "1-7": "1-7"
+  anilist:666:
+    "8-13": "1-6"
+  mal:665:
+    "1-7": "1-7"
+  mal:666:
+    "8-13": "1-6"
